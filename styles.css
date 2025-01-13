@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hero h1, .hero p {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
