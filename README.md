@@ -40,9 +40,9 @@ Welcome to **New Year Offer 2025**, a sleek and modern web application to showca
 🌟 Getting Started
 ------------------
 
-1.  bash```git clone https://github.com/your-username/new-year-offer-2025.git```
+1.  ```git clone https://github.com/your-username/new-year-offer-2025.git```
     
-2.  bash```cd new-year-offer-2025```
+2.  ```cd new-year-offer-2025```
     
 3.  **Open index.html in your browser**:You can double-click on the file or use a local server (like VS Code's Live Server extension).
     
@@ -63,11 +63,11 @@ Contributions are welcome! Here's how you can contribute:
 
 1.  Fork the repository.
     
-2.  bash```git checkout -b feature-name```
+2.  ```git checkout -b feature-name```
     
-3.  bash```git commit -m "Add some feature"```
+3.  ```git commit -m "Add some feature"```
     
-4.  bash```git push origin feature-name```
+4.  ```git push origin feature-name```
     
 5.  Open a pull request.
     
