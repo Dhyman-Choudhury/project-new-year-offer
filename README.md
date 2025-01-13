@@ -19,8 +19,11 @@ Welcome to **New Year Offer 2025**, a sleek and modern web application to showca
 
 📂 Project Structure
 --------------------
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   csharpCopy codeproject-new-year-offer/  ├── index.html          # Homepage  ├── offers.html         # Offers page  ├── about.html          # About us page  ├── contact.html        # Contact page  ├── styles.css          # Custom styling   `
+├── index.html          # Homepage  
+├── offers.html         # Offers page  
+├── about.html          # About us page  
+├── contact.html        # Contact page  
+├── styles.css          # Custom styling   `
 
 🛠️ Technologies Used
 ---------------------
@@ -37,9 +40,9 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 🌟 Getting Started
 ------------------
 
-1.  bashCopy codegit clone https://github.com/your-username/new-year-offer-2025.git
+1.  bash```git clone https://github.com/your-username/new-year-offer-2025.git```
     
-2.  bashCopy codecd new-year-offer-2025
+2.  bash```cd new-year-offer-2025```
     
 3.  **Open index.html in your browser**:You can double-click on the file or use a local server (like VS Code's Live Server extension).
     
@@ -60,11 +63,11 @@ Contributions are welcome! Here's how you can contribute:
 
 1.  Fork the repository.
     
-2.  bashCopy codegit checkout -b feature-name
+2.  bash```git checkout -b feature-name```
     
-3.  bashCopy codegit commit -m "Add some feature"
+3.  bash```git commit -m "Add some feature"```
     
-4.  bashCopy codegit push origin feature-name
+4.  bash```git push origin feature-name```
     
 5.  Open a pull request.
     
